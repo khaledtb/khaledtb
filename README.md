@@ -13,7 +13,7 @@ I'm Khaled Touaibia, a **Senior Frontend Engineer** specializing in **JavaScript
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23195671&size=40&duration=10000&multiline=true&width=1920&lines=Hey+I+am+Khaled+Touaibia%2C+Senior+Frontend+Engineer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%231976D2&size=40&duration=10000&multiline=true&width=1920&lines=Hey+I+am+Khaled+Touaibia%2C+Senior+Frontend+Engineer)](https://git.io/typing-svg)
 
 ### About my work:
 
